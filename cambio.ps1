@@ -7,4 +7,3 @@ Set-ItemProperty `
 
 Restart-Service FA_Scheduler -ErrorAction SilentlyContinue
 
-shutdown /r /t 30
