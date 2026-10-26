@@ -5,5 +5,5 @@ Set-ItemProperty `
 -Name "invitation_code" `
 -Value $NuevoCodigo
 
-Restart-Service FA_Scheduler -ErrorAction SilentlyContinue
+
 
